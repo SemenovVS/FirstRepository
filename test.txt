@@ -2,4 +2,8 @@ Hello world !
 12345
 Good Bye!
 asdsf
+<<<<<<< HEAD
 line from user1
+=======
+another line from user2
+>>>>>>> 4fbe59d27bad3548a8a4b47aac08e135a61537f9
